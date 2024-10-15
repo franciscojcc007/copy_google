@@ -1,23 +1,34 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Search</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./asset/css/style.css">
+  <title>Search</title>
 </head>
+
 <body>
-	<header>
-		<nav>
-			<ul>
-				<li><a href="./index.html">Inicio</a></li>
-				<li><a href="./Búsqueda_regular.html">Búsqueda regular</a></li>
-				<li><a href="./Búsqueda _imágenes.html">Búsqueda de imágenes</a></li>
-			</ul>
-		</nav>
-	</header>
-	<form action="https://google.com/search">
-		<input type="text" name="q">
-		<input type="submit" value="Google Search">
-	</form>
+  <header>
+    <nav>
+      <ul class="menu-items">
+        <li class="menu-item"><a href="./index.html">Inicio</a></li>
+        <li class="menu-item"><a href="./Búsqueda_regular.html">Búsqueda regular</a></li>
+        <li class="menu-item"><a href="./Búsqueda _imágenes.html">Búsqueda de imágenes</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="container">
+    <h1 class="titulo">
+      <span class="letter-g">G</span><span class="letter-o1">o</span><span class="letter-o2">o</span><span
+        class="letter-g2">g</span><span class="letter-l">l</span><span class="letter-e">e</span>
+    </h1>
+  </div>
+  <form id="form" action="https://google.com/search">
+    <div class="icon"></div>
+    <input class="laber" type="text" name="form" placeholder="Búsqueda">
+    <input class="busqueda" type="submit" value="Google Search">
+  </form>
 </body>
+
 </html>
