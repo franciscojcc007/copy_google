@@ -1,8 +1,8 @@
 Tu sitio web debe cumplir con los siguientes requisitos:
 
-1.Su sitio web debe tener al menos tres páginas: una para la Búsqueda regular de Google (que debe llamarse), una para la Búsqueda de imágenes de Google y otra para la Búsqueda avanzada de Google. index.html
+✔️1.Su sitio web debe tener al menos tres páginas: una para la Búsqueda regular de Google (que debe llamarse), una para la Búsqueda de imágenes de Google y otra para la Búsqueda avanzada de Google. index.html
 
-2.En la página de búsqueda de Google, debe haber enlaces en la parte superior derecha de la página para ir a la búsqueda de imágenes o a la búsqueda avanzada. En cada una de las otras dos páginas, debe haber un enlace en la parte superior derecha para volver a la Búsqueda de Google.
+✔️2.En la página de búsqueda de Google, debe haber enlaces en la parte superior derecha de la página para ir a la búsqueda de imágenes o a la búsqueda avanzada. En cada una de las otras dos páginas, debe haber un enlace en la parte superior derecha para volver a la Búsqueda de Google.
 
 3.En la página de búsqueda de Google, el usuario debe poder escribir una consulta, hacer clic en "Búsqueda de Google" y ser llevado a los resultados de búsqueda de Google para esa página.
 
