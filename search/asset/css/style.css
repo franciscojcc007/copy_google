@@ -46,7 +46,7 @@ nav {
     text-decoration: none;
 }
 
-#form {
+.form {
     display: flex;
     justify-content: center;
     padding-top: 10px;
